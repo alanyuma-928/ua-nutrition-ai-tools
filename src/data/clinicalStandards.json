@@ -1,15 +1,26 @@
 {
+  "institution": "The University of Arizona",
+  "lab": "Nutritional Sciences & Wellness Foods Lab",
   "fiber": {
-    "rule": "14g/1000kcal",
+    "grams_per_unit": 14,
+    "kcal_unit": 1000,
     "source": "PAGA 2018 (2nd Ed)"
   },
   "ibw": {
     "method": "Hamwi",
-    "men": { "base": 106, "increment": 6 },
-    "women": { "base": 100, "increment": 5 }
+    "men": {
+      "base_lbs": 106,
+      "per_inch_lbs": 6
+    },
+    "women": {
+      "base_lbs": 100,
+      "per_inch_lbs": 5
+    },
+    "base_height_inches": 60
   },
   "eer": {
-    "standard": "25-30 kcal/kg",
+    "min_kcal_per_kg": 25,
+    "max_kcal_per_kg": 30,
     "source": "Clinical Practice Guidelines"
   }
 }
