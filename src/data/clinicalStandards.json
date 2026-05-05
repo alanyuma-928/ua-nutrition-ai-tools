@@ -1,0 +1,15 @@
+{
+  "fiber": {
+    "rule": "14g/1000kcal",
+    "source": "PAGA 2018 (2nd Ed)"
+  },
+  "ibw": {
+    "method": "Hamwi",
+    "men": { "base": 106, "increment": 6 },
+    "women": { "base": 100, "increment": 5 }
+  },
+  "eer": {
+    "standard": "25-30 kcal/kg",
+    "source": "Clinical Practice Guidelines"
+  }
+}
