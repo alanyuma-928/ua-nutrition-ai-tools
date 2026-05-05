@@ -2,7 +2,7 @@
   "name": "ua-nutrition-ai-tools",
   "version": "1.0.1",
   "description": "Clinical Decision Support for RDN Candidates at The University of Arizona.",
-  "author": "Alan Pruitt",
+  "author": "Alan Pruitt DCC (UoA)",
   "license": "OER-CC-BY-4.0",
   "scripts": {
     "dev": "vite",
