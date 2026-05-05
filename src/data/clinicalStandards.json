@@ -4,7 +4,8 @@
   "fiber": {
     "grams_per_unit": 14,
     "kcal_unit": 1000,
-    "source": "PAGA 2018 (2nd Ed)"
+    "source": "U.S. Dietary Guidelines for Americans (DGA)",
+    "notes": "Standardized fiber density rule for cardiovascular and metabolic health."
   },
   "ibw": {
     "method": "Hamwi",
