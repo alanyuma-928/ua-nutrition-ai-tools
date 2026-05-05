@@ -1,8 +1,8 @@
 {
   "name": "ua-nutrition-ai-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clinical Decision Support for RDN Candidates at The University of Arizona.",
-  "author": "The University of Arizona Nutritional Sciences & Wellness Food Lab",
+  "author": "The University of Arizona Nutritional Sciences & Wellness Foods Lab",
   "license": "OER-CC-BY-4.0",
   "dependencies": {
     "react": "^18.2.0",
